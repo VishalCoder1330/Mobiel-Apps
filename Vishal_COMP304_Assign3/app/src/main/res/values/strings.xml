@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Vishal_COMP304_Assign3</string>
+    <string name="header"><b>Select Task to View</b></string>
+    <string name="task1">Task 1</string>
+    <string name="task2">Task 2</string>
+    <string name="task3">Task 3</string>
+    <string name="lineThick">Line Thickness</string>
+    <string name="f">5</string>
+    <string name="of">15</string>
+    <string name="tf">25</string>
+    <string-array name="color">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+    <string name="clear">CLEAR</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+</resources>
