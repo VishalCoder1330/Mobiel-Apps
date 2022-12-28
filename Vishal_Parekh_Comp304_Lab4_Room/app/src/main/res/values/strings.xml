@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Vishal_Parekh_ COMP304_Lab4</string>
+    <string name="title">Welcome to the Movie Booking APP</string>
+    <string name="movie1">Black Adam</string>
+    <string name="movie2">Enola Holmes 2</string>
+    <string name="movie3">Weird: The Al Yankovic Story</string>
+    <string name="movie4">The Banshees of Inisherin</string>
+    <string name="movie5">Barbarian</string>
+    <string name="movie6">My Policeman</string>
+    <string name="log">LogIn</string>
+    <string name="logbtn">LogIn</string>
+    <string name="custReg">Customer Registration</string>
+    <string name="reg">Register</string>
+    <string name="ticket"><b>Welcome</b></string>
+    <string name="date">Date</string>
+    <string name="mov">Movie Name:</string>
+    <string name="selectedDate">Selected Date:</string>
+    <string name="time1">12:00 pm</string>
+    <string name="time2">2:30 pm</string>
+    <string name="time3">4:30 pm</string>
+    <string name="time4">9:30 pm</string>
+    <string name="ticketDeails">Ticket Details:</string>
+</resources>
