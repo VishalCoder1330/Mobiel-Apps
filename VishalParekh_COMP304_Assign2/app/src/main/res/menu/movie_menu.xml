@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/movie1"
+            android:title="@string/movie1">
+
+        </item>
+        <item
+            android:id="@+id/movie2"
+            android:title="@string/movie2">
+
+        </item>
+        <item
+            android:id="@+id/movie3"
+            android:title="@string/movie3">
+
+        </item>
+
+        <item
+            android:id="@+id/movie4"
+            android:title="@string/movie4">
+
+        </item>
+
+        <item
+            android:id="@+id/movie5"
+            android:title="@string/movie5">
+
+        </item>
+
+
+</menu>

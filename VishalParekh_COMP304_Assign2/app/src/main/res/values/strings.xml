@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">VishalParekh_COMP304_Assign2</string>
+    <string name="Slogan">Easy booking of movie tickets</string>
+    <string name="movie1">The Woman King</string>
+    <string name="movie2">Top Gun: Maverick</string>
+    <string name="movie3">Pearl</string>
+    <string name="movie4">Minions: The Rise of Gru</string>
+    <string name="movie5">Bullet Train</string>
+    <string name="moiveTitle">abc</string>
+    <string name="time1">12:50 pm</string>
+    <string name="time2">2:15 pm</string>
+    <string name="time3">4:45 pm</string>
+    <string name="time4">6:50 pm</string>
+    <string name="time5">8:50 pm</string>
+    <string name="check_Value">1</string>
+    <string name="adult">Adult</string>
+    <string name="child">Children</string>
+    <string name="PI">Personal Information</string>
+    <string name="payment">Payment Info</string>
+    <string name="Payment_Title">Payment Method:</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+    <string name="phoneno">PhoneNo:</string>
+    <string name="e_mail">E-Mail:</string>
+    <string name="movie">Movie:</string>
+    <string name="tickets">Tickets</string>
+    <string name="time">Time:</string>
+</resources>
