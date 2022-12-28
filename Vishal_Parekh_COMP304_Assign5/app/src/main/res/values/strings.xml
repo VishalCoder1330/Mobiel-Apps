@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vishal_Parekh_COMP304_Assign5</string>
+    <string name="title">Find My Theater</string>
+    <string name="loc1">Scarborough</string>
+    <string name="loc2">Oakville</string>
+    <string name="loc3">Hamilton</string>
+    <string name="loc4">Brampton</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map1">Standard</string>
+    <string name="map2">Terrain</string>
+    <string name="map3">Satelite</string>
+</resources>
