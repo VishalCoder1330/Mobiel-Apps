@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">vishal_comp304sec002_lab1_ex2</string>
+    <string name="Options">Choose an oprion for more details</string>
+    <string name="Activity">Activity Methods</string>
+    <string name="software">Preffered Software</string>
+    <string name="preferences">My Preferences:</string>
+    <string name="os">Operating System: Android 12</string>
+    <string name="lang">Language: Kotlin</string>
+    <string name="sm">Social Media: LinkedIn</string>
+    <string name="dj">Dream Job: Android Developer</string>
+    <string name="device">Device: Samsung</string>
+    <string name="LifeCycle">Activity LifeCycle Methods:</string>
+    <string name="onCreate">onCreate() called</string>
+    <string name="onStart">onStart() called</string>
+    <string name="onResume">onResume() called</string>
+    <string name="onPause">onPause() called</string>
+</resources>
