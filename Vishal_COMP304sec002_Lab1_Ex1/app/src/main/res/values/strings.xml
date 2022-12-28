@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vishal_COMP304sec002_Lab1_Ex1</string>
+    <string name="edit_massage">Enter a massage</string>
+    <string name="button_send">send</string>
+</resources>
